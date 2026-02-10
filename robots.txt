@@ -1,1 +1,1 @@
-Sitemap: https://tr33bug.github.io/testGreenLab/sitemap.xml
+Sitemap: https://ghwiegand.github.io/testGreenLab/sitemap.xml
