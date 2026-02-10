@@ -5,6 +5,6 @@
 
   # Tr33Bug's Website
 
-  Visit **[tr33bug.github.io/testGreenLab](https://tr33bug.github.io/testGreenLab)** 🚀
+  Visit **[ghwiegand.github.io/testGreenLab](https://ghwiegand.github.io/testGreenLab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
